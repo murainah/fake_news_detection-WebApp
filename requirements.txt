@@ -19,3 +19,4 @@ six==1.15.0
 sklearn==0.0
 threadpoolctl==2.1.0
 Werkzeug==1.0.1
+mlxtend==0.21.0
